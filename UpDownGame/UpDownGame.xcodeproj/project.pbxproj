@@ -13,6 +13,7 @@
 		AA6C8DF029A3B85400522885 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA6C8DEE29A3B85400522885 /* Main.storyboard */; };
 		AA6C8DF229A3B85600522885 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA6C8DF129A3B85600522885 /* Assets.xcassets */; };
 		AA6C8DF529A3B85600522885 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA6C8DF329A3B85600522885 /* LaunchScreen.storyboard */; };
+		AAA799BF29B5E9200032EC1D /* CreditViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAA799BE29B5E9200032EC1D /* CreditViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AA6C8DF129A3B85600522885 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AA6C8DF429A3B85600522885 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AA6C8DF629A3B85600522885 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AAA799BE29B5E9200032EC1D /* CreditViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				AA6C8DF129A3B85600522885 /* Assets.xcassets */,
 				AA6C8DF329A3B85600522885 /* LaunchScreen.storyboard */,
 				AA6C8DF629A3B85600522885 /* Info.plist */,
+				AAA799BE29B5E9200032EC1D /* CreditViewController.swift */,
 			);
 			path = UpDownGame;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				AA6C8DED29A3B85400522885 /* ViewController.swift in Sources */,
 				AA6C8DE929A3B85400522885 /* AppDelegate.swift in Sources */,
 				AA6C8DEB29A3B85400522885 /* SceneDelegate.swift in Sources */,
+				AAA799BF29B5E9200032EC1D /* CreditViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

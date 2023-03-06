@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  UpDownGame
 //
-//  Created by 김경호 on 2023/02/20.
+//  Created by 김경호 on 2023/03/05.
 //
 
 import UIKit
